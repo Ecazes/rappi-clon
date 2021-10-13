@@ -1,0 +1,45 @@
+.intro-container {
+    display: flex;
+    width: 100%;
+    background-color: rgb(238, 234, 234);
+
+}
+.info {
+    width: 60%;
+}
+body {
+    font-family: 'Nunito', sans-serif;
+}
+.title {
+    font-weight: 300;
+    font-size: 72px;
+    
+}
+.bold {
+    font-weight: 800;
+    color: rgb(255, 68, 31);
+}
+.bold1 {
+    font-weight: 800;
+    color: rgb(46, 44, 54);  
+}
+.parrafo {
+    color: rgb(46, 44, 54);
+    font-weight: 400;
+
+}
+.padre {
+    width: 40%;
+}
+.bold3 {
+    font-weight: 600;
+}
+.cuadrado {
+    width: 23%;
+    height: auto;
+    background-color: white;
+}
+a {
+    text-decoration: none;
+    color: inherit;
+}
